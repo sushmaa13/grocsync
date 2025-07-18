@@ -1,3 +1,8 @@
+**This is the complete and official version of the GrocSync project.**
+
+> If you're looking for the earlier test/demo version, check the `Grocery-Recommendation-App ` repository which is just a dummy of this project 
+
+
 # 🛒 GrocSync — Intelligent Grocery Management System
 GrocSync introduces an intelligent pipeline for streamlined grocery management using OCR, machine learning, and data integration techniques. The system is built to reduce waste, track inventory, predict future needs, and recommend recipes using available ingredients.
 
